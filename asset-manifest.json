@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tic-tac/static/css/main.3fb87691.css",
+    "main.js": "/tic-tac/static/js/main.794dcb24.js",
+    "static/media/bacchus.png": "/tic-tac/static/media/bacchus.4cbac3b12052fc102ed5.png",
+    "static/media/saint.png": "/tic-tac/static/media/saint.a7a80624b170385f371e.png",
+    "index.html": "/tic-tac/index.html",
+    "main.3fb87691.css.map": "/tic-tac/static/css/main.3fb87691.css.map",
+    "main.794dcb24.js.map": "/tic-tac/static/js/main.794dcb24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fb87691.css",
+    "static/js/main.794dcb24.js"
+  ]
+}
